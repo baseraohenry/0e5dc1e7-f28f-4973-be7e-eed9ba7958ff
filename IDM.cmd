@@ -193,8 +193,7 @@ echo:          _____________________________________________
 echo:                                                          
 call :_color2 %_White% "          [3] Toggle Windows Firewall  " %_col% "[%_status%]"
 echo:          _____________________________________________   
-echo:                                                          
-echo:          [4] ReadMe                                      
+echo:                                                                                             
 echo:          [5] Homepage                                    
 echo:          [6] Exit                                        
 echo:       ___________________________________________________
